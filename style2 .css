@@ -1,0 +1,50 @@
+@import url("https://fonts.googleapis.com/css2?family=Aboreto&family=Berkshire+Swash&family=Comfortaa&family=DM+Serif+Display&family=Roboto+Mono&display=swap");
+@font-face {
+  font-family: unsteady-oversteer;
+  src: url(./unsteady\ oversteer.ttf);
+}
+h1{
+  color:#000000;
+}
+p{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+textarea{
+  width: 50%;
+  height: 50%;
+  padding: 10px;
+  margin: 10px;
+  color: black;
+  background-color:rgb(18, 165, 148);
+}
+label{
+  color: #2E1437;
+}
+input[type=button], input[type=submit], input[type=reset] {
+border-width: 2px;
+padding: 4px;
+font-size: 10pt;
+color: rgb(0, 0, 0);
+background-color: rgb(255, 255, 255);
+text-align: center;
+}
+.container{
+  padding: 10px;
+  margin: 20px;
+ height: 50%;
+ width: 50%;
+  border: 10px solid #2E1437;
+  /* background-color: aqua; */
+  }
+  *{ 
+    /* width: 100%; */
+    /* min-height: 100vh; */
+ background: linear-gradient(
+    to right,
+    pink 0%,
+    pink 50%,
+    paleturquoise 50%,
+    paleturquoise 100%
+  );
+  /* display: flex; */
+  }
