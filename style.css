@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Aboreto&family=Berkshire+Swash&family=Comfortaa&family=DM+Serif+Display&family=Roboto+Mono&display=swap");
+/* @import url("https://fonts.googleapis.com/css2?family=Aboreto&family=Berkshire+Swash&family=Comfortaa&family=DM+Serif+Display&family=Roboto+Mono&display=swap");
       @font-face {
         font-family: unsteady-oversteer;
         src: url(./unsteady\ oversteer.ttf);
@@ -35,7 +35,7 @@ text-align: center;
        width: 50%;
         border: 10px dotted #2E1437;
         /* background-color: aqua; */
-        }
+        /* }
         *{
 background-color: #948E99;
-        }
+        } */
